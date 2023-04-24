@@ -6,6 +6,7 @@ public class Application {
 /*
  * This is a way you can insert comments on multiple
  * lines.
+ * here I want to add a new comment 
  */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
